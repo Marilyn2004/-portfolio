@@ -1,10 +1,8 @@
-# Ziyi Wang's Project Portfolio
-
 Welcome! This repository contains a collection of my personal projects showcasing skills in Python programming, data analysis, software design, and algorithmic thinking. Each project is independently structured and documented.
 
 ---
 
-## 🔹 1. Connect Four
+##  1. Connect Four
 
 **Description:**  
 A command-line Python version of the classic Connect Four game.
@@ -15,11 +13,11 @@ A command-line Python version of the classic Connect Four game.
 - Handling user inputs and turn-based gameplay  
 - Win condition checking and board rendering  
 
-📁 [`/connect-four`](./connect-four)
+ [`/connect-four`](./connect-four)
 
 ---
 
-## 🔹 2. To-Do List CLI App (Enhanced Version)
+##  2. To-Do List CLI App (Enhanced Version)
 
 **Description:**  
 A fully functional command-line ToDo List Manager supporting task priority, progress tracking, and persistent file storage.
@@ -31,11 +29,11 @@ A fully functional command-line ToDo List Manager supporting task priority, prog
 - Real-time task progress tracking  
 - Automatic data saving and sorting  
 
-📁 [`/to-do-list`](./to-do-list)
+ [`/to-do-list`](./to-do-list)
 
 ---
 
-## 🔹 3. Enhanced Dining Data Analysis
+##  3. Enhanced Dining Data Analysis
 
 **Description:**  
 An upgraded data analytics project based on behavioral observations at UCSD dining halls. Includes modularized code for data cleaning and visualization.
@@ -47,11 +45,11 @@ An upgraded data analytics project based on behavioral observations at UCSD dini
 - Behavioral pattern discovery  
 - Clean data pipeline and visuals  
 
-📁 [`/ucsd_dining_analysis`](./ucsd_dining_analysis)
+ [`/ucsd_dining_analysis`](./ucsd_dining_analysis)
 
 ---
 
-## 🔹 4. UAS Backend Mapping System
+##  4. UAS Backend Mapping System
 
 **Description:**  
 A modular backend mapping system project with placeholder design and logic modules. Organized for easy scalability and integration with front-end.
@@ -62,11 +60,11 @@ A modular backend mapping system project with placeholder design and logic modul
 - Backend system thinking  
 - API/controller/data layer separation  
 
-📁 [`/uas-backend-mapping`](./uas-backend-mapping)
+ [`/uas-backend-mapping`](./uas-backend-mapping)
 
 ---
 
-## 🔧 Tools & Skills Covered
+##  Tools & Skills Covered
 
 - Python (OOP, pandas, matplotlib, JSON, CLI)  
 - Git & GitHub  
@@ -76,6 +74,6 @@ A modular backend mapping system project with placeholder design and logic modul
 
 ---
 
-👩‍💻 *Built by Ziyi Wang · [Marilyn2004](https://github.com/Marilyn2004)*
+
 
 

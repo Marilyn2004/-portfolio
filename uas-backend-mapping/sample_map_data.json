@@ -1,0 +1,26 @@
+{
+    "mission": "Field Recon A1",
+    "waypoints": [
+        {
+            "id": "WP1",
+            "latitude": 32.88,
+            "longitude": -117.234,
+            "altitude": 100,
+            "task": "photo"
+        },
+        {
+            "id": "WP2",
+            "latitude": 32.8805,
+            "longitude": -117.233,
+            "altitude": 110,
+            "task": "scan"
+        },
+        {
+            "id": "WP3",
+            "latitude": 32.881,
+            "longitude": -117.2325,
+            "altitude": 120,
+            "task": "drop"
+        }
+    ]
+}

@@ -17,7 +17,7 @@ A command-line Python version of the classic Connect Four game.
 
 ---
 
-##  2. To-Do List CLI App (Enhanced Version)
+##  2. To-Do List
 
 **Description:**  
 A fully functional command-line ToDo List Manager supporting task priority, progress tracking, and persistent file storage.
@@ -33,7 +33,7 @@ A fully functional command-line ToDo List Manager supporting task priority, prog
 
 ---
 
-##  3. Enhanced Dining Data Analysis
+##  3. Dining Data Analysis
 
 **Description:**  
 An upgraded data analytics project based on behavioral observations at UCSD dining halls. Includes modularized code for data cleaning and visualization.
@@ -49,7 +49,7 @@ An upgraded data analytics project based on behavioral observations at UCSD dini
 
 ---
 
-##  4. UAS Backend Mapping System
+##  4. UAS Backend Mapping Tool
 
 **Description:**  
 A modular backend mapping system project with placeholder design and logic modules. Organized for easy scalability and integration with front-end.
